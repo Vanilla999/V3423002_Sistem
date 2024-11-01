@@ -416,7 +416,7 @@ import JoinNow from '@/components/JoinNow.vue'
             ]"
           >
             <img
-              src="@/assets/images/logo/jenny.png"
+              src="@/assets/images/logo/Jenny.png"
               class="object-contain w-32 max-w-full rounded-full aspect-square"
             />
             <h2 class="mt-5 text-3xl font-bold tracking-tighter text-gray-800">
