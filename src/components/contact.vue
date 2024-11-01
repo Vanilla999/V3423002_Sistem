@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+window.scrollTo(0,0);
+</script>
 
 <template>
   <section

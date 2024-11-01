@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import JoinNow from '@/components/JoinNow.vue'
+window.scrollTo(0,0);
 </script>
 
 <template>
