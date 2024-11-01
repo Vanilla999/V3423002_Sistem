@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
-import homecontent from '@/components/homecontent.vue'
+import BoutUs from '@/components/BoutUs.vue'
 </script>
 
 <template>
   <MainLayout>
-    <homecontent/>
+    <BoutUs/>
   </MainLayout>
 </template>

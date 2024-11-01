@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
-import homecontent from '@/components/homecontent.vue'
+import contact from '@/components/contact.vue'
 </script>
 
 <template>
   <MainLayout>
-    <homecontent/>
+    <contact/>
   </MainLayout>
 </template>

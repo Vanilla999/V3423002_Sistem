@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
-import homecontent from '@/components/homecontent.vue'
+import privacy from '@/components/privacy.vue'
 </script>
 
 <template>
   <MainLayout>
-    <homecontent/>
+    <privacy/>
   </MainLayout>
 </template>

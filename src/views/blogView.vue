@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import MainLayout from '@/layouts/MainLayout.vue'
-import homecontent from '@/components/homecontent.vue'
+import blog from '@/components/blog.vue'
 </script>
 
 <template>
   <MainLayout>
-    <homecontent/>
+    <blog/>
   </MainLayout>
 </template>
